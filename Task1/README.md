@@ -2,7 +2,7 @@
 
 This is a Spring Boot Java application that provides a REST API for managing and executing "Task" objects stored in MongoDB. Each Task represents a shell command that can be executed (simulated here) an>
 
-[![Demo video](screenshots/ServerRun.png)](screenshots/Demo1.webm)
+https://github.com/user-attachments/assets/06021baf-9eeb-48c3-8297-17e635b556d7
 ## Features
 
 - **CRUD Operations for Tasks:**
