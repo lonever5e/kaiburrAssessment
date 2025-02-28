@@ -30,8 +30,6 @@ If MongoDB is not running as a service, you can start it manually:
    ```bash
    mongod --dbpath ~/mongodb-data
 
-
-
 ## Setup and Build Instructions
 
 1. **Build the Project:**
@@ -53,6 +51,8 @@ If MongoDB is not running as a service, you can start it manually:
         After building the project, run:
         ```bash
         java -jar target/taskapi-0.0.1-SNAPSHOT.jar
+        
+![ServerRun Screenshot](screenshots/ServerRun.png)
 
 The application will start on port 8080.
 
@@ -94,3 +94,5 @@ The application will start on port 8080.
    
    **Description:** This endpoint executes the task's shell command and returns execution details (start time, end time, output).
 
+
+![ServerRun Screenshot](screenshots/ServerRun.png)
