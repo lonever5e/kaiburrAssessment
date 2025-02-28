@@ -2,6 +2,8 @@
 
 This is the frontend web UI for the Task API application. It is built using React 19 with TypeScript and Ant Design. The UI supports creating tasks, viewing the task list, searching, deleting tasks, running commands, and viewing execution results on dedicated pages.
 
+[![Demo video](screenshots/Frontend.png)](screenshots/Demo3.webm)
+
 ## Features
 
 - **Task List Page:** Displays a list of tasks with actions to Run, View Details, or Delete.
