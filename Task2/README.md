@@ -1,7 +1,6 @@
 # Task2: Kubernetes Deployment of Task API Application
 
 This project demonstrates the deployment of the Task API application (developed in Task1) to a Kubernetes cluster (using Minikube). The application (a Spring Boot REST API) is dockerized and deployed along with MongoDB. The API has been modified so that the "PUT a TaskExecution" endpoint creates a busybox pod in Kubernetes to execute the task's command.
-
 https://github.com/user-attachments/assets/c1d48c92-6007-488c-8875-a92101c9cc62
 ---
 
