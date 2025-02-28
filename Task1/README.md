@@ -95,4 +95,4 @@ The application will start on port 8080.
    **Description:** This endpoint executes the task's shell command and returns execution details (start time, end time, output).
 
 
-![ServerRun Screenshot](screenshots/ServerRun.png)
+![ServerTest Screenshot](screenshots/ServerTest.png)
