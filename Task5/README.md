@@ -90,7 +90,7 @@ nltk.download('wordnet')
 
 The notebook prints classification reports, accuracy scores, and confusion matrices for all models. Visualizations are provided to compare model performance.
 
-![image](https://github.com/user-attachments/assets/5d2f81c0-8b46-4188-bd23-5001ee3a1808)
+![image](https://github.com/user-attachments/assets/a0d9950d-fa12-4a83-bf3c-6265154b220f)
 
 ## Conclusion
 
