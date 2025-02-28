@@ -2,6 +2,8 @@
 
 This project demonstrates a complete end-to-end pipeline for text classification using the Consumer Complaint Database. The task involves analyzing consumer complaints about financial products and services, cleaning and processing text data, engineering additional features, and building multiple classification models to predict complaint categories.
 
+**⚠️ Warning:** Only Very small data is used for Train because of resource and time constraint (5000 sample)
+
 ## Table of Contents
 
 - [Overview](#overview)
