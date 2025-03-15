@@ -1,7 +1,7 @@
 # Data Science Task Submission
 
 ## About This Repository
-Welcome to my Data Science task submission repository. This repository contains solutions to multiple data science tasks, including data preprocessing, model training, evaluation, and visualization. Each task is structured with proper documentation and accompanying screenshots to ensure clarity and transparency.
+This repository contains solutions to multiple assessments from kaiburr, including machine learning, java backend, kubernetes and Web UI. Each task is structured with proper documentation and accompanying screenshots to ensure clarity and transparency.
 
 ## Author Information
 - **Name:** Jeevanantham 
