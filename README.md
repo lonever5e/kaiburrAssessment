@@ -1,4 +1,4 @@
-# Data Science Task Submission
+# Task Submission
 
 ## About This Repository
 This repository contains solutions to multiple assessments from kaiburr, including machine learning, java backend, kubernetes and Web UI. Each task is structured with proper documentation and accompanying screenshots to ensure clarity and transparency.
